@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LIST_LEVEL_TWO_JUNE_SEVEN</string>
+    <string-array name="NAME">
+        <item>DANIEL  </item>
+        <item>  PIERCE</item>
+        <item> ROGER </item>
+        <item>  TIMOTHY</item>
+        <item> GEORGE </item>
+        <item> SEAN </item>
+    </string-array>
+    <string-array name="TITLE">
+        <item>SPECTRE  </item>
+        <item>  GOLDENEYE</item>
+        <item> MOONRAKER </item>
+        <item>  DAYLIGHTS</item>
+        <item> MAJESTY </item>
+        <item> GOLDFINGER </item>
+    </string-array>
+</resources>
